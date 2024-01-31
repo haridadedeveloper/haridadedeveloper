@@ -1,8 +1,8 @@
-<h1 align="center">Welcome to my place of knowledge!</h1>
+<h1 align="center">Bem vindo ao meu reino 👑!</h1>
 
 ###
 
-<h3 align="center">Hello, my name is Carlos and I'm 17 years old, I've been studying programming for over 5/6 years.</h3>
+<h3 align="center">Olá me chamo **Carlos** é programo a mais ou menos 2/1 anos.</h3>
 
 ###
 
@@ -59,13 +59,3 @@
 
 ###
 
-<h2 align="center">Statistics :</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=haridadeveloper" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=haridadeveloper" height="150" alt="languages graph"  />
-</div>
-
-###
